@@ -1,0 +1,20 @@
+{
+  "name": "cocktail-search-demo",
+  "version": "1.0.0",
+  "description": "Créer un repository github tout neuf, nommé cocktail-search (ce repository github doit être public)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KAOUTARBAH/cocktail-search-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KAOUTARBAH/cocktail-search-demo/issues"
+  },
+  "homepage": "https://github.com/KAOUTARBAH/cocktail-search-demo#readme"
+}
